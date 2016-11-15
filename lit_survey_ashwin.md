@@ -43,6 +43,8 @@
 - Second way : mirroring
 - Third way : DNS redirection (clever use of Name Server)
 
+---
+
 ## 2. Incentives Build Robustness in Bittorrent
 *B. Cohen. Incentives build robustness in bittorrent,
 May 2003. http://bitconjurer.org/BitTorrent
@@ -135,6 +137,8 @@ May 2003. http://bitconjurer.org/BitTorrent
 ### Upload-only
 
 - Once done downloading, seeds to those which one-one else happens to be uploading at the moment
+
+---
 
 ## 3. The BitTorrent Protocol Specification
 *BEP_0003. The BitTorrent Protocol Specification, Cohen. http://www.bittorrent.org/beps/bep_0003.html*
@@ -230,6 +234,8 @@ it is common to announce over udp tracker as well
 - piece
 - cancel
 
+---
+
 ## 4. The Bittorrent P2P File-Sharing System: Measurements and Analysis
 *Pouwelse, Johan; et al. (2005). "The Bittorrent P2P File-Sharing System: Measurements and Analysis". Peer-to-Peer Systems IV. Berlin: Springer. pp. 205–216. doi:10.1007/11558989_19. ISBN 978-3-540-29068-1. Retrieved 4 September 2011.*
 
@@ -289,3 +295,6 @@ it is common to announce over udp tracker as well
 
 - decentralization solution for avaibility but needs further reasearch
 - incentives to seed
+
+---
+
