@@ -6,7 +6,7 @@
 - shift from communication to content
 - talk about different kinds of content(small)
 - popular content distribution sites have large loads
-- for content distribution no single server can handle such loads [1]
+- for content distribution no single server can handle such loads[1]
 - talk about large content providers like youtube google etc.
 
 - internet traffic changes quickly in [1]
