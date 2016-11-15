@@ -14,9 +14,9 @@
   - its properties are highly skewed
 - zipfs law???
 
-## Different methods for creating large web sites
+## Different methods for creating large web sites [1]
 
-### Server Farms [1]
+### Server Farms
 - server side improvement
 - cluster of computers act like a single server
 - the farm must look like one logical entity to the clients.Possible solutions:
@@ -45,7 +45,34 @@ The above two methods cannot be applied for populat sites that serve content on 
 
 ### Content Delivery Networks
 
+- flips web caching
+- the provider places a copy of content on a set of nodes
+- nodes are at different location
+- client directed to nearest node
+- distribution tree structure :
+  - the origin server as parent
+  - nodes as intermediate
+  - the clients as leaf nodes
+  - each level serves content to lower level
+- approaches to CDN:
+  - mirroring : the cdn nodes are called mirrors
+  - DNS redirection
+- advantages:
+  - can accomodate more clients by adding more CDN nodess
+  - if bottleneck is at distribution of content among nodes add one more layer in the tree
+  - the origin server is not overloaded
+  - client gets good performance by fetching pages from nearby server
+  - traffic load on network decreases ???
+- disadvantages:
+  - hard to deploy
 
+### Peer-to-Peer networks
+
+- computers pool resources to form a content distribution system
+- computers are called peers because each can act as a client as well as a server
+- no dedicated infrastructure
+- empowering little guy
+- self-scaling
 
 
 
