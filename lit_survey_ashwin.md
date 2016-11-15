@@ -298,3 +298,48 @@ it is common to announce over udp tracker as well
 
 ---
 
+## 5. Research and Review of Web RTC- the Next Generation of Web-based communication
+*Sheetal Thakkar,  Kinjal Thakkar, Bhavika Bhanushali, Aman Arora, Dishant Chawla;" Research and Review of Web RTC- the Next Generation of Web-based communication".nternational Journal of Advanced Research in
+Computer Science and Software Engineering Volume 5, Issue 6, June 2015;ISSN: 2277 128X"*
+
+### Abstract
+
+- Next generation of web based communication
+- enable web browsers to provide real-time communications as part of its basic capabilities
+
+### Introduction
+
+- IP communication
+- no need of external plugins like flashcrowds
+
+### Need for webrtc
+
+- Browser based
+- security
+- advancement in audio/video codecs
+- promotes stronger session authentication
+
+### Technology and Standards
+
+- GUI
+- Media Engineering
+- Framework
+
+### Application Model
+
+- Triangular Model : /---\
+- Trapezoid (p2p happens betn servers)
+
+### Network Transport
+
+- udp
+
+### Future
+
+- not confused with browser to browser
+- can be an other end point device
+
+### conclusion
+
+- revolution in communication
+
