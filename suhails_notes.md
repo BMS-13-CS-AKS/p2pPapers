@@ -25,6 +25,6 @@
 
 
 #### TODO
-- [] content distibution in youtube and other large players
-- [] shift from communication to content
-- [] zipfs law in internet traffic
+- [ ] content distibution in youtube and other large players
+- [ ] shift from communication to content
+- [ ] zipfs law in internet traffic
