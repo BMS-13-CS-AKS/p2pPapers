@@ -9,3 +9,4 @@ Add them in the format 'number. [name]\(link\)'
 2. [A Taxonomy and Survey of Content Delivery Networks](http://www.cloudbus.org/reports/CDN-Taxonomy.pdf)
 3. [An overview of Cloud based Content Delivery Networks](http://sameekhan.seecs.nust.edu.pk/pub/W_K_2015_BC_HKWSWZ.pdf)
 4. [A Walk through Content Delivery Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.3533&rep=rep1&type=pdf)
+5. [On peer-to-peer (P2P) content delivery](http://www.land.ufrj.br/~classes/coppe-redes-2008/biblio/P2P-content-delivery.pdf)
