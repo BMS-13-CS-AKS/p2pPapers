@@ -348,4 +348,8 @@ Computer Science and Software Engineering Volume 5, Issue 6, June 2015;ISSN: 227
 ## 6. Towards a Peer-Assisted Content Delivery Architecture
 *Bogdan Florescu, Mugurel Ionut Andreica. Towards a Peer-Assisted Content Delivery Archi-tecture. Proceedings of the 18th International Conference on Control Systems and Computer Science (CSCS) (ISSN: 2066-4451), May 2011, Bucharest, Romania. 2,pp.521-528. <hal-00766762>*
 
+---
+
+## 7. Peer-assisted content distribution in Akamai netsession
+*M. Zhao, "Peer-assisted content distribution in Akamai netsession", Proc. ACM IMC, pp. 31-42, 2013.*
 
